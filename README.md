@@ -1,5 +1,6 @@
-###Crypto Project
-###Names:
+Crypto Project
+
+Names:
  - Abdalla Ali
  - na1
  - na2
